@@ -1,8 +1,6 @@
 # dagon &nbsp; [![bluebuild build badge](https://github.com/jackgrahn/dagon/actions/workflows/build.yml/badge.svg)](https://github.com/jackgrahn/dagon/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
-
-After setup, it is recommended you update this README to describe your custom image.
+Dagon is my personal KDE developer image, built with [BlueBuild](https://blue-build.org/) on top of [Universal Blue](https://universal-blue.org/)'s Kinoite. It ships with VS Code, Brave Origin, podman, the GitHub CLI and Homebrew (included in the Kinoite base), with full media codecs and personal configuration applied via [chezmoi](https://www.chezmoi.io/).
 
 ## Installation
 
